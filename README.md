@@ -1,5 +1,5 @@
 ## Hello World! I'm Jakub, a Computer Science Student 👋:
-💻 currently working on a university project  <br>🎓 studying Computer Science at the Silesian University of Technology  <br>🧠 learning programming and IT since high school  <br>🌱 constantly exploring new technologies and sharpening my skills  
+💻 currently working on a university projects  <br>🎓 studying Computer Science at the Silesian University of Technology  <br>🧠 learning programming and IT since high school  <br>🌱 constantly exploring new technologies and sharpening my skills  
 
 
 # 💻 Tech Stack:
