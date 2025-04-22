@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/1200x/30/d4/63/30d463314591f0fb99dc9d84be436181.jpg" alt="cherry blossom gif" width="100%" />
 </p>
 
-<h2>Hello World! I'm Jakub, a Computer Science Student 👋:</h2>
+<h2>Hello World! I'm Jakub, a Computer Engeneering Student 👋:</h2>
 
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" 
      alt="dev gif" 
@@ -11,7 +11,7 @@
      style="margin-left: 20px; margin-bottom: 10px;" />
      
 💻 currently working on a university project  <br>
-🎓 studying Computer Science at the Silesian University of Technology  <br>
+🎓 studying Computer Engineering at the Silesian University of Technology  <br>
 🧠 learning programming and IT since high school  <br>
 🌱 constantly exploring new technologies and sharpening my skills<br>
 
