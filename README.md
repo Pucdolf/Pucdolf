@@ -50,3 +50,10 @@
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=Pucdolf&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pucdolf&theme=tokyonight" />
+
+</p>
