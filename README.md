@@ -31,6 +31,7 @@
 | [**🏋️ Gym Management**](https://github.com/Pucdolf/Projekt-Silownia) | System for managing gym members, passes, and class attendance.  |
 | [**💱 Currency Exchange**](https://github.com/Pucdolf/Projekt-Kantor) | App for currency conversion with live exchange rates integration.  |
 | [**🎒 Knapsack Solver**](https://github.com/Pucdolf/Knapsack-Problem) | Implementations of dynamic and greedy algorithms for the knapsack problem.  |
+| [**📟 ATmega2560 Copier**](https://github.com/Pucdolf/ATmega) | AVR assembly program for cyclic Flash-to-SRAM data transfers. |
 
 </div>
 
